@@ -1,0 +1,13 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "RESTful API для списка задач",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
